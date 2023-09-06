@@ -5,7 +5,7 @@ Developed for the Software Development I course at the University of Ioannina, d
 
 Supervised by professor Panos Vassiliadis.
 
-As described in the IMainController interface, the system:
+As described in the IMainController interface, the system can perform any of the functionality described below:
 
 * Loads a delimited file in the prescribed format and represents its contents (i.e., a Gantt project's tasks) as objects in main memory
 
